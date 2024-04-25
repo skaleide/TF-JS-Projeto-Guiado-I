@@ -1,6 +1,10 @@
 # Projeto: Sistema de Estoque de Produtos
 
-Bem-vindo ao projeto do CRUD em JavaScript para o sistema de estoque de produtos! Aqui você aprenderá a criar, listar, atualizar e deletar produtos em um sistema simples de gerenciamento de estoque.
+Olá, 
+
+Vamos iniciar o projeto do CRUD em JavaScript para o sistema de estoque de produtos.
+
+Aqui você aprenderá a criar, listar, atualizar e deletar produtos em um sistema de gerenciamento de estoque.
 
 ## Funcionalidades do CRUD
 
