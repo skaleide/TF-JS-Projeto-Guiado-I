@@ -39,7 +39,7 @@ Para começar a praticar, siga estes passos:
   - css/
     - styles.css
   - js/
-    - script.js
+    - index.js
   - index.html
   - README.md
 ```
